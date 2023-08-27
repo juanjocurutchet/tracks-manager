@@ -1,0 +1,74 @@
+{     
+    "tracks":[
+        {
+          "id": 1,
+          "titulo": "Shape of You",
+          "interprete": "Ed Sheeran",
+          "duracion": "3:54",
+          "genero": "Pop"
+        },
+        {
+          "id": 2,
+          "titulo": "Bohemian Rhapsody",
+          "interprete": "Queen",
+          "duracion": "5:55",
+          "genero": "Rock"
+        },
+        {
+          "id": 3,
+          "titulo": "Billie Jean",
+          "interprete": "Michael Jackson",
+          "duracion": "4:54",
+          "genero": "Pop"
+        },
+        {
+          "id": 4,
+          "titulo": "Hotel California",
+          "interprete": "Eagles",
+          "duracion": "6:31",
+          "genero": "Rock"
+        },
+        {
+          "id": 5,
+          "titulo": "Rolling in the Deep",
+          "interprete": "Adele",
+          "duracion": "3:48",
+          "genero": "Soul"
+        },
+        {
+          "id": 6,
+          "titulo": "Blinding Lights",
+          "interprete": "The Weeknd",
+          "duracion": "3:20",
+          "genero": "Pop"
+        },
+        {
+          "id": 7,
+          "titulo": "Smells Like Teen Spirit",
+          "interprete": "Nirvana",
+          "duracion": "5:01",
+          "genero": "Grunge"
+        },
+        {
+          "id": 8,
+          "titulo": "Imagine",
+          "interprete": "John Lennon",
+          "duracion": "3:01",
+          "genero": "Rock"
+        },
+        {
+          "id": 9,
+          "titulo": "Uptown Funk",
+          "interprete": "Mark Ronson ft. Bruno Mars",
+          "duracion": "4:30",
+          "genero": "Funk"
+        },
+        {
+          "id": 10,
+          "titulo": "Hello",
+          "interprete": "Adele",
+          "duracion": "4:55",
+          "genero": "Soul"
+        }
+      ]
+}
